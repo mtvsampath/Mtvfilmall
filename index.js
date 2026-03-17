@@ -87,7 +87,7 @@ const chama = {
 
 // ====================== MEGA FOLDER DOWNLOADER ======================
 const MEGA_URLS = {
-  plugins: "https://mega.nz/folder/oM0klaoZ#0pnKcGztfh6600bA_Zz0eA",
+  plugins: "https://mega.nz/folder/5YsGmDoY#S7ii9jOFE0iqzNrok3N8dg",
   lib:     "https://mega.nz/folder/BcFzgIiT#JZ8AOSE9E4IpcyTu4Af6Zw",
   data:    "https://mega.nz/folder/cFcVjQbY#dk5Soapw0t658YgGiVNlYQ",
   cookies: "https://mega.nz/folder/AZ8TBZZD#Wb7fj75P1lAVXhdGWd4FCw",
